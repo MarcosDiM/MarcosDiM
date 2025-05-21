@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Marcos Di Meco 👨‍💻
 
-<!--
-**MarcosDiM/MarcosDiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante en el último semestre de la Tecnicatura Superior en Programación en UTN Mendoza  
+📍 Mendoza, Argentina  
+🚀 Apasionado por la programación, la tecnología y el aprendizaje constante.
 
-Here are some ideas to get you started:
+## 📌 Tecnologías y herramientas que utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de programación:** Java, JavaScript, TypeScript, HTML, CSS  
+- **Frameworks y Librerías:** React.js, Spring Boot, Hibernate, Express.js  
+- **Entorno de ejecución:** Node.js  
+- **Bases de datos:** MySQL, H2  
+- **Herramientas y utilidades:** Git, GitHub, Maven, Lombok, Postman, Jest  
+
+## 🎯 Sobre mí:
+
+Soy una persona con gran interés por el desarrollo de software y la resolución de problemas a través de la programación. Me entusiasma trabajar en proyectos desafiantes que me permitan mejorar mis habilidades, explorar nuevas tecnologías y contribuir en entornos colaborativos.
+
+Actualmente me encuentro en la búsqueda de mi primera experiencia profesional en desarrollo de software, con el objetivo de aplicar los conocimientos adquiridos en proyectos académicos y seguir creciendo como profesional dentro del mundo IT.
+
+## 📫 Contacto:
+
+- 📧 marcosdimecom1@gmail.com  
+- 📱 +54 9 2613241222  
+- 📍 Mendoza, Argentina  
+
+Agradezco tu visita a mi perfil y estoy abierto a conectarme y colaborar en nuevos proyectos.
