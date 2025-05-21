@@ -20,7 +20,7 @@ Actualmente me encuentro en la búsqueda de mi primera experiencia profesional e
 
 ## 📫 Contacto:
 
-- 📧 marcosdimecom1@gmail.com  
+- 📧 marcosdimecom@gmail.com  
 - 📱 +54 9 2613241222  
 - 📍 Mendoza, Argentina  
 
