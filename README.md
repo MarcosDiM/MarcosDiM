@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Marcos Di Meco 👨‍💻
 
-🎓 Tecnico Superior en Programación en UTN Mendoza  
+🎓 Técnico Superior en Programación en UTN Mendoza  
 📍 Mendoza, Argentina  
 🚀 Apasionado por la programación, la tecnología y el aprendizaje constante.
 
